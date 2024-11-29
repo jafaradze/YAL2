@@ -9,3 +9,5 @@ if __name__ == '__main__':
         print('x делится на 3')
     else:
         print('x не делится на 3')
+    for i in range(3):
+        print(':)')
