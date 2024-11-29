@@ -1,6 +1,5 @@
 def print_hi(name):
-    result = f'Hi, {name}'
-    print(result)
+    print(result := f'Hi, {name}')
 
 
 if __name__ == '__main__':
