@@ -5,4 +5,5 @@ def print_hi(name):
 
 if __name__ == '__main__':
     print_hi('PyCharm')
-
+    x = 5
+    print(x % 3 == 0)
